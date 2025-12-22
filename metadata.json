@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Speed Tracker",
+  "description": "A single-purpose question solving speed timer with no extra features.",
+  "requestFramePermissions": []
+}
